@@ -1,6 +1,6 @@
 'From Cuis7.1 [latest update: #6456] on 7 June 2024 at 9:53:21 pm'!
 'Description BrainFuck interpreter for Cuis Smalltalk. Original version at http://www.squeaksource.com/BrainFuck.html, author Bernat Romagosa'!
-!provides: 'BrainFuck' 1 1!
+!provides: 'BrainFuck' '1.1.0'!
 SystemOrganization addCategory: #BrainFuck!
 
 
